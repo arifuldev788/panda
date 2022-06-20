@@ -1,0 +1,22 @@
+.bg-orange{
+	background-color: #feeae9;
+}
+.text-pink{
+	color: #ff136f;
+	font-weight: bold;
+}
+.carousel-item{
+	padding: 20px 40px;
+	margin-top: 50px;
+	border-radius: 5px;
+}
+.buy-now-btn{
+	background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+	color: #ffffff;
+	padding: 5px 20px;
+	border: none;
+	border-radius: 5px;
+	text-transform: uppercase;
+	font-weight: bold;
+	cursor: pointer;
+}
