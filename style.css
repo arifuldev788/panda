@@ -1,5 +1,9 @@
+.container{
+	margin-bottom: 50px;
+}
 .bg-orange{
 	background-color: #feeae9;
+	border-radius: 5px;
 }
 .text-pink{
 	color: #ff136f;
@@ -7,13 +11,27 @@
 }
 .carousel-item{
 	padding: 20px 40px;
-	margin-top: 50px;
-	border-radius: 5px;
 }
+.cat1{
+	background-color: orange;
+}
+.cat2 {
+	background-color: orchid;
+  }
+.cat3 {
+	background-color: royalblue;
+  }
+  .cat1, .cat2, .cat3{
+	border-radius: 10px;
+	padding: 10px 0px;
+  }
+  .band-area img{
+	width: 80%;
+  }
 .buy-now-btn{
 	background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
 	color: #ffffff;
-	padding: 5px 20px;
+	padding: 10px 20px;
 	border: none;
 	border-radius: 5px;
 	text-transform: uppercase;
